@@ -1,0 +1,9 @@
+//  if (numLevel == 1 && stateLevel) {
+//    gb.clearDisplay();
+//    drawBricks(Block_level_1);
+//    stateLevel = false;
+//  } else if (numLevel == 2 && stateLevel) {
+//    gb.clearDisplay();
+//    drawBricks(Block_level_2);
+//    stateLevel = false;
+//  }
